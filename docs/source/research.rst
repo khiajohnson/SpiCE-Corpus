@@ -2,14 +2,14 @@
 .. _`Babel, M.`: https://linguistics.ubc.ca/person/molly-babel/
 .. _`Bilingual sibilant acoustics in conversational Cantonese-English speech`: https://asa.scitation.org/doi/abs/10.1121/1.5136840
 
-#####################
-Research using SpiCE
-#####################
+#########
+Research 
+#########
 
-If you use the SpiCE bilingual corpus in your research, `let us know <mailto:khia.johnson@ubc.ca>`_!
-Please include a link to your academic website or profile,
-as well as the research output (paper, pre-print, poster,
-slides, etc.) and we'll link to it here.
+If you use the SpiCE bilingual corpus in your research, let
+khia.johnson@ubc.ca know! Please include a link to your academic
+website or profile, as well as the research output (paper, pre-print,
+poster, slides, etc.) and we'll link to it here.
 
 ************
 Publications
@@ -25,4 +25,3 @@ Presentations
 `Bilingual sibilant acoustics in conversational Cantonese-English speech`_.
 Poster at the 178th Meeting of the Acoustical Society of America,
 San Diego, CA.
-

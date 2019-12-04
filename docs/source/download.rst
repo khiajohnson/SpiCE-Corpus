@@ -22,9 +22,3 @@ Release no. 2
 ^^^^^^^^^^^^^
 
 The second release will comprise corrected orthrographic transcriptions, and force-aligned transcripts at the level of the phon, using the `Montreal Forced Aligner <https://montreal-forced-aligner.readthedocs.io/en/latest/>`_.
-
-*******
-License
-*******
-
-License information will be available when the corpus is first released.
