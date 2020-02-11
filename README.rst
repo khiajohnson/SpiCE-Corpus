@@ -1,6 +1,6 @@
-###########
-SpiCE Corpus 
-###########
+#############
+SpiCE Corpus
+#############
 
 SpiCE is a forthcoming open-access corpus of conversational
 bilingual **Sp**\ eech **i**\ n **C**\ antonese and **E**\ nglish.

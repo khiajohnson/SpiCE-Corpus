@@ -35,17 +35,20 @@ The order of languages was counterbalanced.
 Task 1: Sentence reading
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-...
+Participants read a fixed set of sentences in each language. 
 
 Task 2: Storyboard narration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-...
+Participant narrated a cartoon in both languages:
+http://totemfieldstoryboards.org/stories/thank_you_notes/
 
 Task 3: Conversational interview
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-...
+The conversational interview covered a variety of everyday
+topics such as culture, food, school, hobbies, and family.
+More information to be posted at a later date. 
 
 
 **************************

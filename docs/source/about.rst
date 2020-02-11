@@ -26,13 +26,13 @@ Contributors
 - Molly Babel
 - Ivan Fong
 - Nancy Yiu
-- Rachel Soo
 - `Speech-in-Context Lab`_ members
 
 ************
 Citing SpiCE
 ************
 
-`Johnson, K. A.`_, `Babel, M.`_, Fong, I., & Yiu, N. (2019). SpiCE: A new
+`Johnson, K. A.`_, `Babel, M.`_, Fong, I., & Yiu, N. (To appear). SpiCE: A new
 open-access corpus of conversational bilingual speech in Cantonese and English.
-*Manuscript submitted for publication*.
+*Proceedings of the 12th International Conference on Language Resources and*
+*Evaluation*.

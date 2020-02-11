@@ -10,11 +10,11 @@
 About
 ######
 
-SpiCE is an open-access corpus of conversational early bilingual
-**Speech in Cantonese and English**. Upon completion,
-the corpus will comprise 24 hours of high-quality recordings of
-participant speech, with half in each language. This project is
-supported by the `UBC Public Scholars Initiative`_ and SSHRC.
+SpiCE is a forthcoming open-access corpus of conversational early bilingual
+**S**\ peech **i**\ n **C**\ antonese and **E**\ nglish**. Upon completion,
+the corpus will comprise 24 hours of high-quality recordings of participant
+speech, with half in each language. This project is supported by the
+`UBC Public Scholars Initiative`_ and SSHRC.
 
 **This read-the-docs site is under construction. Questions? Get in touch.**
 
@@ -26,13 +26,13 @@ Contributors
 - Molly Babel
 - Ivan Fong
 - Nancy Yiu
-- Rachel Soo
 - `Speech-in-Context Lab`_ members
 
 ************
 Citing SpiCE
 ************
 
-`Johnson, K. A.`_, `Babel, M.`_, Fong, I., & Yiu, N. (2019). SpiCE: A new
+`Johnson, K. A.`_, `Babel, M.`_, Fong, I., & Yiu, N. (To appear). SpiCE: A new
 open-access corpus of conversational bilingual speech in Cantonese and English.
-*Manuscript submitted for publication*.
+*Proceedings of the 12th International Conference on Language Resources and*
+*Evaluation*.
