@@ -3,7 +3,7 @@ Design
 ######
 
 This page is under construction. You can expect it to be complete
-and full of details by mid-2020.
+and full of details by late 2020.
 
 ************
 Participants
@@ -21,8 +21,9 @@ We used the following equipment and tools:
 - AKG C520 head-mounted microphones
 - Audacity
 
-All recordings were made in stereo, with a 44.1 KHz sampling
-rate and 24-bit resolution.
+Recordings were made in stereo, with a 44.1 KHz sampling
+rate and 24-bit resolution, in a quiet room on the UBC Point Grey 
+campus.
 
 **********
 Procedures
@@ -40,8 +41,10 @@ Participants read a fixed set of sentences in each language.
 Task 2: Storyboard narration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Participant narrated a cartoon in both languages:
-http://totemfieldstoryboards.org/stories/thank_you_notes/
+Participant narrated a cartoon in both languages. The cartoon 
+was originally developed for field research and elicited 
+vocabulary related to family members and simple gift-giving. 
+http://totemfieldstoryboards.org/
 
 Task 3: Conversational interview
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
