@@ -24,7 +24,7 @@ bilinguals in each language.  This project is supported by the
 Contributors
 ************
 
-- Khia A. Johnson (khia.johnson@ubc.ca, `@khia_johnson`_), `website`_)
+- Khia A. Johnson (khia.johnson@ubc.ca, `@khia_johnson`_, `website`_)
 - `Dr. Molly Babel`_
 - Ivan Fong
 - Nancy Yiu
