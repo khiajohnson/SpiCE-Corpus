@@ -15,9 +15,10 @@ poster, slides, etc.) and we'll link to it here.
 Publications
 ************
 
-`Johnson, K. A.`_, `Babel, M.`_, & Fuhrman, R. A. (To appear). Bilingual acoustic 
+`Johnson, K. A.`_, `Babel, M.`_, & Fuhrman, R. A. (2020). Bilingual acoustic 
 voice variation is similarly structured across languages.
-*Proceedings of Interspeech 2020*. 
+*Proceedings of Interspeech 2020*.
+https://isca-speech.org/archive/Interspeech_2020/pdfs/3095.pdf
 
 `Johnson, K. A.`_, `Babel, M.`_, Fong, I., & Yiu, N. (2020). SpiCE: A new
 open-access corpus of conversational bilingual speech in Cantonese and English.
@@ -28,14 +29,14 @@ open-access corpus of conversational bilingual speech in Cantonese and English.
 Presentations
 *************
 
-`Johnson, K. A.`_, `Babel, M.`_, & Fuhrman, R. A. (2020, October). Bilingual 
-acoustic voice variation is similarly structured across languages. Virtual 
-presentation at Interspeech 2020.
-
 `Johnson, K. A.`_ & `Babel, M.`_ (Accepted). Uniformity and crosslinguistic 
 influence in Cantonese-English bilingual stops. Poster at the 3rd International 
 Symposium on Bilingual and L2 Processing in Adults and Children. Nijmegen, 
 Netherlands. *Postponed until further notice due to COVID-19.*
+
+`Johnson, K. A.`_, `Babel, M.`_, & Fuhrman, R. A. (2020, October). Bilingual 
+acoustic voice variation is similarly structured across languages. Virtual 
+presentation at Interspeech 2020.
 
 Fong, I. (2020, February). Crossing the language boundary: Syllable fusion
 in Cantonese-English code-mixing speech. Oral presentation at *The 4th*

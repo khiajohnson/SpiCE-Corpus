@@ -16,7 +16,7 @@ SpiCE is a forthcoming open-access corpus of conversational bilingual
 high-quality audio recordings of 30-minute interviews with 34 early 
 bilinguals in each language.  This project is supported by the
 `UBC Public Scholars Initiative`_ and a SSHRC grant held by 
-`Dr. Molly Babel`_.
+`Dr. Molly Babel`_. The initial release is planned for early 2021.
 
 **This read-the-docs site is under construction. Questions? Get in touch.**
 
