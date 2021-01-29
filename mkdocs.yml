@@ -1,0 +1,7 @@
+site_name: SpiCE Corpus
+nav:
+    - About: index.md
+    - Design: design.md
+    - Download: download.md
+    - Research: research.md
+theme: readthedocs
