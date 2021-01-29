@@ -1,8 +1,9 @@
 site_name: SpiCE Corpus
 nav:
-    - About: index.md
+    - Home: index.md
     - Corpus Design: design.md
     - Transcription: transcription.md
     - Download SpiCE!: download.md
     - Research: research.md
 theme: readthedocs
+extra_css: [extra.css]

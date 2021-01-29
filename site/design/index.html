@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="../css/theme.css" />
   <link rel="stylesheet" href="../css/theme_extra.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../extra.css" rel="stylesheet" />
   
   <script>
     // Current page data
@@ -48,12 +49,16 @@
 
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="..">About</a>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
                     </li>
                 </ul>
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Corpus Design</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#spice-is-a-phonological-corpus">SpiCE is a phonological corpus</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#the-speech-community">The speech community</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#participants">Participants</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#recording-setup">Recording setup</a>
@@ -68,7 +73,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#file-naming">File naming</a>
+    <li class="toctree-l2"><a class="reference internal" href="#file-naming-conventions">File naming conventions</a>
     </li>
     </ul>
                     </li>
@@ -117,13 +122,16 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="a-summary-of-how-the-corpus-was-made">A summary of how the corpus was made</h1>
-<p>This site covers the basics. You can also read our <a href="https://www.aclweb.org/anthology/2020.lrec-1.503/">open-access paper describing the corpus</a>.</p>
+                <h1 id="corpus-design">Corpus Design</h1>
+<p>This page covers general information about SpiCE, as well as how the corpus was collected. Anything that happened <em>after</em> the recordings were made is covered on the (following) <a href="../transcription/">transcription</a> page. You could also read the <a href="https://www.aclweb.org/anthology/2020.lrec-1.503/">open-access paper describing the corpus</a>.</p>
+<h2 id="spice-is-a-phonological-corpus">SpiCE is a phonological corpus</h2>
+<p>What's that? A phonological corpus for spoken language has audio recordings, linguistic annotations at the level of the word and phone, as well as metadata. A phonological corpus should also be representative of the selected population, big enough, and collected for a purpose. SpiCE is a phonological corpus, albeit one with <em>force-aligned phones</em>. A future release might include hand-corrected phones, but that's a big ❓ at the moment!</p>
+<h2 id="the-speech-community">The speech community</h2>
+<p>The Cantonese-speaking community in Metro Vancouver is a unique bilingual community. Not only is Cantonese very widely spoken in the area, it has been for a <em>long time</em>, and by a heterogeneous group of people. Statistics Canada has some useful visualizations for getting a broad picture of the linguistic landscape&mdash;in particular: <a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dv-vd/lang/index-eng.cfm">Proportion of mother tongue responses for various regions in Canada from the 2016 Census</a>. There is a lot more that could be said here, but we'll keep it brief for now!</p>
 <h2 id="participants">Participants</h2>
-<p>Thirty-four early Cantonese English bilinguals were recruited from the UBC community in Vancouver, BC, Canada. They were recruited via word of mouth, social media, clubs, the linguistics subject pool, and other similar methods. A detailed summary of the participants' language background information is provided in the <a href="../download/">corpus download</a>. </p>
-<p>It is worth noting that the Cantonese-speaking community in the Metro Vancouver area is a unique kind of bilingual community. Not only is Cantonese very widely spoken in the area, it has been for a <em>long time</em>, and by a heterogeneous group of people. Statistics Canada has very useful visualizations for getting a broad picture of the linguistic landscape&mdash;in particular: <a href="https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dv-vd/lang/index-eng.cfm">Proportion of mother tongue responses for various regions in Canada, 2016 Census</a>. </p>
+<p>Thirty-four early Cantonese-English bilinguals were recruited from the UBC community in Metro Vancouver, BC, Canada. They were recruited via word of mouth, social media, clubs, the linguistics subject pool, and other similar methods. A detailed summary of the participants' language background information is provided in the <a href="../download/">corpus download</a>. The group of participants recruited for SpiCE reflects the heterogeneity of the speech community.</p>
 <h2 id="recording-setup">Recording setup</h2>
-<p>All of the recordings in the SpiCE corpus were conducted by two Cantonese-English bilingual research assistants, in a quiet room in Stores Road Annex at the University of British Columbia. The participant and research assistants were all seated around a table during the session. Recordings were made with the following tools, equipment, and settings:</p>
+<p>All of the recordings in the SpiCE corpus were created by two Cantonese-English bilingual research assistants, in a quiet room in Stores Road Annex at the University of British Columbia. The participant and research assistants were all seated around a table during the session&mdash;Nancy Yiu conducted the interviews, and Ivan Fong managed the recording process. Recordings were made with the following tools, equipment, and settings:</p>
 <ul>
 <li><a href="https://www.audacityteam.org/">Audacity</a></li>
 <li>A PC laptop</li>
@@ -133,15 +141,217 @@
 <li>44.1 KHz sampling rate</li>
 <li>24-bit resolution</li>
 </ul>
+<p>Prior to participating, all participants completed the UBC Linguistics department language background Qualtrics survey through their <a href="https://ubclinguistics.sona-systems.com/">UBC Linguistics SONA</a> account&mdash;a summary of their responses is included in the <a href="../download/">corpus download</a>.</p>
 <h2 id="procedures">Procedures</h2>
-<p>Participants spent approximately 90 minutes in the lab, and completed three tasks for each language, after provided written informed consent. The order of languages was counterbalanced (this information is included in the participant summary file). </p>
+<p>Participants spent approximately 90 minutes in the lab, and completed three tasks for each language (see below), after providing written informed consent. The tasks were ordered from most structured to least structured.</p>
+<p>The order of languages was counterbalanced&mdash;half completed the Cantonese interview first, and the other half completed the English interview first (this information is included in the participant summary file and file names, see below). Participants were given a break between interviews if they wanted one. </p>
 <h3 id="task-1-sentences">Task 1: Sentences</h3>
-<p>Participants read a fixed set of sentences in each language. The sentences are provided in the <a href="https://www.aclweb.org/anthology/2020.lrec-1.503/">paper</a>.</p>
+<p>Participants read a fixed set of sentences in each language, read in order.</p>
+<p>The Cantonese sentences were Chinese New Year themed sentences that were expected to be familiar to participants. Participants were presented with Cantonese characters, <a href="https://en.wikipedia.org/wiki/Jyutping">Jyutping</a>, and the English translation simultaneously. This was done, as not all participants were expected to be able to read in Cantonese.</p>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th align="left">Characters &nbsp;</th>
+<th align="left">Jyutping   &nbsp;</th>
+<th align="left">English translations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">1.   &nbsp;</td>
+<td align="left">新年快樂    &nbsp;</td>
+<td align="left">san1 lin4 faai3 lok6   &nbsp;</td>
+<td align="left">Happy New Year</td>
+</tr>
+<tr>
+<td align="right">2.   &nbsp;</td>
+<td align="left">恭喜發財    &nbsp;</td>
+<td align="left">gung1 hei2 faat3 choi4 &nbsp;</td>
+<td align="left">Congratulations on happiness and prosperity</td>
+</tr>
+<tr>
+<td align="right">3.   &nbsp;</td>
+<td align="left">身體健康    &nbsp;</td>
+<td align="left">san1 tai2 gin6 hong1   &nbsp;</td>
+<td align="left">May your health be well</td>
+</tr>
+<tr>
+<td align="right">4.   &nbsp;</td>
+<td align="left">快高長大    &nbsp;</td>
+<td align="left">faai3 gou1 zoeng2 dai6 &nbsp;</td>
+<td align="left">Grow quickly</td>
+</tr>
+<tr>
+<td align="right">5.   &nbsp;</td>
+<td align="left">龍馬精神    &nbsp;</td>
+<td align="left">lung4 ma5 zing1 san4   &nbsp;</td>
+<td align="left">Have the spirit of the horse and dragon</td>
+</tr>
+<tr>
+<td align="right">6.   &nbsp;</td>
+<td align="left">學業進步    &nbsp;</td>
+<td align="left">hok6 yip6 zeon3 bou6   &nbsp;</td>
+<td align="left">Progress in your education</td>
+</tr>
+<tr>
+<td align="right">7.   &nbsp;</td>
+<td align="left">年年有餘    &nbsp;</td>
+<td align="left">lin4 lin4 yau5 yue4    &nbsp;</td>
+<td align="left">Excess in each year</td>
+</tr>
+<tr>
+<td align="right">8.   &nbsp;</td>
+<td align="left">出入平安    &nbsp;</td>
+<td align="left">cut1 yap6 ping4 on1    &nbsp;</td>
+<td align="left">Leave and enter in safety</td>
+</tr>
+<tr>
+<td align="right">9.   &nbsp;</td>
+<td align="left">心想事成    &nbsp;</td>
+<td align="left">sam1 soeng2 si6 sing4  &nbsp;</td>
+<td align="left">Accomplish that which is in your heart</td>
+</tr>
+<tr>
+<td align="right">10.  &nbsp;</td>
+<td align="left">生意興隆    &nbsp;</td>
+<td align="left">saang1 yi3 hing1 lung4 &nbsp;</td>
+<td align="left">Have a prosperous business</td>
+</tr>
+<tr>
+<td align="right">11.  &nbsp;</td>
+<td align="left">萬事如意    &nbsp;</td>
+<td align="left">maan6 si6 yu4 yi3      &nbsp;</td>
+<td align="left">A thousand things according to your will</td>
+</tr>
+<tr>
+<td align="right">12.  &nbsp;</td>
+<td align="left">天天向上    &nbsp;</td>
+<td align="left">tin1 tin1 hoeng3 soeng6 &nbsp;</td>
+<td align="left">Upwards and onwards every day</td>
+</tr>
+<tr>
+<td align="right">13.  &nbsp;</td>
+<td align="left">笑口常開    &nbsp;</td>
+<td align="left">siu3 hau2 soeng4 hoi1  &nbsp;</td>
+<td align="left">Laugh with an open mouth frequently</td>
+</tr>
+<tr>
+<td align="right">14.  &nbsp;</td>
+<td align="left">大吉大利    &nbsp;</td>
+<td align="left">daai6 gat1 daai6 lei6  &nbsp;</td>
+<td align="left">Much luck and much prosperity</td>
+</tr>
+<tr>
+<td align="right">15.  &nbsp;</td>
+<td align="left">五福臨門    &nbsp;</td>
+<td align="left">mm5 fuk1 lam4 mun4     &nbsp;</td>
+<td align="left">Five blessings for your household</td>
+</tr>
+<tr>
+<td align="right">16.  &nbsp;</td>
+<td align="left">招財進寶    &nbsp;</td>
+<td align="left">ziu1 coi4 zeon3 bou2   &nbsp;</td>
+<td align="left">Seek wealth welcome in the precious</td>
+</tr>
+<tr>
+<td align="right">17.  &nbsp;</td>
+<td align="left">盤滿砵滿    &nbsp;</td>
+<td align="left">pun4 mun5 but3 mun5    &nbsp;</td>
+<td align="left">Basins full of wealth</td>
+</tr>
+</tbody>
+</table>
+<p><br> The English sentences consist of List 60 from the <a href="https://www.cs.columbia.edu/~hgs/audio/harvard.html">Harvard Sentences</a> and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.</p>
+<table>
+<thead>
+<tr>
+<th align="right"></th>
+<th>English sentence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">1.     &nbsp;</td>
+<td>Stop whistling and watch the boys march.</td>
+</tr>
+<tr>
+<td align="right">2.     &nbsp;</td>
+<td>Jerk the cord, and out tumbles the gold.</td>
+</tr>
+<tr>
+<td align="right">3.     &nbsp;</td>
+<td>Slide the tray across the glass top.</td>
+</tr>
+<tr>
+<td align="right">4.     &nbsp;</td>
+<td>The cloud moved in a stately way and was gone.</td>
+</tr>
+<tr>
+<td align="right">5.     &nbsp;</td>
+<td>Light maple makes for a swell room.</td>
+</tr>
+<tr>
+<td align="right">6.     &nbsp;</td>
+<td>Set the piece here and say nothing.</td>
+</tr>
+<tr>
+<td align="right">7.     &nbsp;</td>
+<td>Dull stories make her laugh.</td>
+</tr>
+<tr>
+<td align="right">8.     &nbsp;</td>
+<td>A stiff cord will do to fasten your shoe.</td>
+</tr>
+<tr>
+<td align="right">9.     &nbsp;</td>
+<td>Get the trust fund to the bank early.</td>
+</tr>
+<tr>
+<td align="right">10.    &nbsp;</td>
+<td>Choose between the high road and the low.</td>
+</tr>
+<tr>
+<td align="right">11.    &nbsp;</td>
+<td>Wish on every candle for your birthday.</td>
+</tr>
+<tr>
+<td align="right">12.    &nbsp;</td>
+<td>Deck the halls with boughs of holly.</td>
+</tr>
+<tr>
+<td align="right">13.    &nbsp;</td>
+<td>Ring in the new year with a kiss.</td>
+</tr>
+<tr>
+<td align="right">14.    &nbsp;</td>
+<td>Have a spooky Halloween.</td>
+</tr>
+<tr>
+<td align="right">15.    &nbsp;</td>
+<td>Enjoy the vacation with your loved ones.</td>
+</tr>
+<tr>
+<td align="right">16.    &nbsp;</td>
+<td>Be filled with joy and peace during this time.</td>
+</tr>
+<tr>
+<td align="right">17.    &nbsp;</td>
+<td>Relax on your holiday break.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
 <h3 id="task-2-storyboard">Task 2: Storyboard</h3>
-<p>Participant narrated the same cartoon in both languages. The cartoon&mdash;<a href="http://totemfieldstoryboards.org/stories/thank_you_notes/">Thank You Notes</a>&mdash;was originally developed for field research and elicited vocabulary related to family members and simple gift-giving.</p>
+<p>Participant narrated the same cartoon in both languages, usually in just a few minutes. The cartoon&mdash;<a href="http://totemfieldstoryboards.org/stories/thank_you_notes/">Thank You Notes</a>&mdash;was originally developed by Patrick Littell for linguistics field research and elicited vocabulary related to family members and simple gift-giving. While participants only viewed one panel at a time, here's what the cartoon looked like as a whole:</p>
+<p><img alt="image" src="../img/thank-you-notes.jpg" /></p>
 <h3 id="task-3-interview">Task 3: Interview</h3>
-<p>The conversational interview covered a variety of everyday topics such as culture, food, school, hobbies, and family.</p>
-<h2 id="file-naming">File naming</h2>
+<p>The conversational interview accounted for the bulk of the session, and typically lasted around 25 minutes. covered a variety of everyday topics such as culture, food, school, hobbies, and family. The sequence of topics with potential follow-up prompts and questions is available in the following documents. Note that the interviews were dynamic, in that the interviewer went along with what the participant wanted to discuss!</p>
+<ul>
+<li><a href="../spice-interview-questions-english.pdf">English interview questions PDF</a></li>
+<li><a href="../spice-interview-questions-cantonese.pdf">Cantonese interview questions PDF</a></li>
+</ul>
+<h2 id="file-naming-conventions">File naming conventions</h2>
 <p>Each filename corresponding to a participant is named with a consistent format, such as <code>VF21A_Cantonese2_20200131</code>. This corresponds to the following:</p>
 <table>
 <thead>
@@ -153,33 +363,33 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><code>VF</code></td>
+<td align="left"><code>VF</code>         &nbsp;</td>
 <td align="left">Female</td>
 <td align="left"><code>VF</code> = Male</td>
 </tr>
 <tr>
-<td align="left"><code>21</code></td>
+<td align="left"><code>21</code>         &nbsp;</td>
 <td align="left">Age</td>
 <td align="left">varies</td>
 </tr>
 <tr>
-<td align="left"><code>Cantonese</code></td>
+<td align="left"><code>Cantonese</code>  &nbsp;</td>
 <td align="left">Language</td>
 <td align="left"><code>English</code></td>
 </tr>
 <tr>
-<td align="left"><code>2</code></td>
+<td align="left"><code>2</code>          &nbsp;</td>
 <td align="left">Interview order</td>
 <td align="left"><code>1</code></td>
 </tr>
 <tr>
-<td align="left"><code>20200231</code></td>
-<td align="left">Date in YYYYMMDD</td>
+<td align="left"><code>20200231</code>   &nbsp;</td>
+<td align="left">Date in YYYYMMDD &nbsp;</td>
 <td align="left">varies</td>
 </tr>
 </tbody>
 </table>
-<p><br> Participant IDs are made up of the first five characters. In this example, <code>VF21A</code>.</p>
+<p><br> Unique participant IDs are made up of the first five characters. In this example, <code>VF21A</code>.</p>
               
             </div>
           </div>
@@ -190,7 +400,7 @@
         <a href="../transcription/" class="btn btn-neutral float-right" title="Transcription">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href=".." class="btn btn-neutral" title="About"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
