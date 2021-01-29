@@ -22,7 +22,7 @@ You can cite the corpus directly (preferred):
 @data{johnson_spice_2021,
 	author = {Johnson, Khia},
 	publisher = {Scholars Portal Dataverse},
-	title = {{SpiCE}: Speech in {Cantonese} and {English}},
+	title = {SpiCE: Speech in Cantonese and English},
 	year = {2021},
 	version = {DRAFT VERSION},
 	doi = {10.5683/SP2/MJOXP3},
@@ -34,7 +34,7 @@ Alternatively, you can cite the paper that introduces the corpus:
 
 ```bib
 @inproceedings{johnson_lrec_2020,
-    title = {{SpiCE}: A new open-access corpus of conversational cilingual cpeech in {Cantonese} and {English}},
+    title = {SpiCE: A new open-access corpus of conversational bilingual speech in Cantonese and English},
     author = {Johnson, Khia A. and Babel, Molly and Fong, Ivan and Yiu, Nancy},
     booktitle = {Proceedings of the 12th Language Resources and Evaluation Conference},
     month = may,
