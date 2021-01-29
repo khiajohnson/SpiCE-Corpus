@@ -6,4 +6,5 @@ nav:
     - Download SpiCE!: download.md
     - Research: research.md
 theme: readthedocs
+navigation_depth: 5
 extra_css: [extra.css]
