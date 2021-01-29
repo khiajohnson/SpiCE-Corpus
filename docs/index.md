@@ -11,7 +11,7 @@ SpiCE is a forthcoming open-access corpus of conversational bilingual Speech in 
 - [Khia A. Johnson](https://www.khiajohnson.com) &mdash; get in touch at [khia.johnson@ubc.ca](mailto:khia.johnson@ubc.ca) or [@khia_johnson](https://twitter.com/khia_johnson) 
 - [Molly Babel](https://speechincontext.arts.ubc.ca/people/babel.molly.html)
 - [Ivan Fong](https://speechincontext.arts.ubc.ca/people/fong.ivan.html)
-- [Nancy Yiu](](https://speechincontext.arts.ubc.ca/people/yiu.nancy.html))
+- [Nancy Yiu]((https://speechincontext.arts.ubc.ca/people/yiu.nancy.html)
 - ...and many other members of the [Speech-in-Context Lab](https://speechincontext.arts.ubc.ca/)
 
 ## Citing the corpus
