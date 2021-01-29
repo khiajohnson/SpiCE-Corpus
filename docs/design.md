@@ -41,49 +41,48 @@ Participants read a fixed set of sentences in each language, read in order.
 The Cantonese sentences were Chinese New Year themed sentences that were expected to be familiar to participants. Participants were presented with Cantonese characters, [Jyutping](https://en.wikipedia.org/wiki/Jyutping), and the English translation simultaneously. This was done, as not all participants were expected to be able to read in Cantonese.
 
 
-|             |  Characters	&nbsp; | Jyutping	&nbsp; 			| English translations							|
-| ----------: | :------------- | :----------------------------- | :-------------------------------------------- |
-| 1.   &nbsp; | 新年快樂	&nbsp; | san1 lin4 faai3 lok6	&nbsp; 	| Happy New Year 								|
-| 2.   &nbsp; | 恭喜發財	&nbsp; | gung1 hei2 faat3 choi4	&nbsp; 	| Congratulations on happiness and prosperity 	|
-| 3.   &nbsp; | 身體健康	&nbsp; | san1 tai2 gin6 hong1	&nbsp;	| May your health be well 						|
-| 4.   &nbsp; | 快高長大	&nbsp; | faai3 gou1 zoeng2 dai6	&nbsp;	| Grow quickly									|
-| 5.   &nbsp; | 龍馬精神	&nbsp; | lung4 ma5 zing1 san4	&nbsp;	| Have the spirit of the horse and dragon		|
-| 6.   &nbsp; | 學業進步	&nbsp; | hok6 yip6 zeon3 bou6	&nbsp;	| Progress in your education					|
-| 7.   &nbsp; | 年年有餘	&nbsp; | lin4 lin4 yau5 yue4	&nbsp;	| Excess in each year							|
-| 8.   &nbsp; | 出入平安	&nbsp; | cut1 yap6 ping4 on1	&nbsp;	| Leave and enter in safety						|
-| 9.   &nbsp; | 心想事成	&nbsp; | sam1 soeng2 si6 sing4	&nbsp;	| Accomplish that which is in your heart		|
-| 10.  &nbsp; | 生意興隆	&nbsp; | saang1 yi3 hing1 lung4	&nbsp;	| Have a prosperous business 					|
-| 11.  &nbsp; | 萬事如意	&nbsp; | maan6 si6 yu4 yi3		&nbsp; 	| A thousand things according to your will		|
-| 12.  &nbsp; | 天天向上	&nbsp; | tin1 tin1 hoeng3 soeng6 &nbsp; | Upwards and onwards every day					|
-| 13.  &nbsp; | 笑口常開	&nbsp; | siu3 hau2 soeng4 hoi1	&nbsp;	| Laugh with an open mouth frequently			|
-| 14.  &nbsp; | 大吉大利	&nbsp; | daai6 gat1 daai6 lei6	&nbsp;	| Much luck and much prosperity					|
-| 15.  &nbsp; | 五福臨門	&nbsp; | mm5 fuk1 lam4 mun4		&nbsp;	| Five blessings for your household				|
-| 16.  &nbsp; | 招財進寶	&nbsp; | ziu1 coi4 zeon3 bou2	&nbsp;	| Seek wealth welcome in the precious			|
-| 17.  &nbsp; | 盤滿砵滿	&nbsp; | pun4 mun5 but3 mun5	&nbsp;	| Basins full of wealth 						|
+|             |  Characters	   | Jyutping	       				| English translations				   			|
+| :---------- | :------------- | :----------------------------- | :-------------------------------------------- |
+| 1.          | 新年快樂	       | san1 lin4 faai3 lok6	       	| Happy New Year 								|
+| 2.          | 恭喜發財	       | gung1 hei2 faat3 choi4	       	| Congratulations on happiness and prosperity 	|
+| 3.          | 身體健康	       | san1 tai2 gin6 hong1	      	| May your health be well 						|
+| 4.          | 快高長大	       | faai3 gou1 zoeng2 dai6	      	| Grow quickly									|
+| 5.          | 龍馬精神	       | lung4 ma5 zing1 san4	      	| Have the spirit of the horse and dragon		|
+| 6.          | 學業進步	       | hok6 yip6 zeon3 bou6	      	| Progress in your education					|
+| 7.          | 年年有餘	       | lin4 lin4 yau5 yue4	      	| Excess in each year							|
+| 8.          | 出入平安	       | cut1 yap6 ping4 on1	      	| Leave and enter in safety						|
+| 9.          | 心想事成	       | sam1 soeng2 si6 sing4	      	| Accomplish that which is in your heart		|
+| 10.         | 生意興隆	       | saang1 yi3 hing1 lung4	      	| Have a prosperous business 					|
+| 11.         | 萬事如意	       | maan6 si6 yu4 yi3		       	| A thousand things according to your will		|
+| 12.         | 天天向上	       | tin1 tin1 hoeng3 soeng6        | Upwards and onwards every day					|
+| 13.         | 笑口常開	       | siu3 hau2 soeng4 hoi1	      	| Laugh with an open mouth frequently			|
+| 14.         | 大吉大利	       | daai6 gat1 daai6 lei6	      	| Much luck and much prosperity					|
+| 15.         | 五福臨門	       | mm5 fuk1 lam4 mun4		      	| Five blessings for your household				|
+| 16.         | 招財進寶	       | ziu1 coi4 zeon3 bou2	      	| Seek wealth welcome in the precious			|
+| 17.         | 盤滿砵滿	       | pun4 mun5 but3 mun5	      	| Basins full of wealth 						|
 
-<br> The English sentences consist of List 60 from the [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.
+The English sentences consist of List 60 from the [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.
 
 |        		| English sentence 									|
-| ------------: |													|
-| 1.     &nbsp; | Stop whistling and watch the boys march. 			|
-| 2.     &nbsp; | Jerk the cord, and out tumbles the gold. 			|
-| 3.     &nbsp; | Slide the tray across the glass top. 				|
-| 4.     &nbsp; | The cloud moved in a stately way and was gone. 	|
-| 5.     &nbsp; | Light maple makes for a swell room. 				|
-| 6.     &nbsp; | Set the piece here and say nothing. 				|
-| 7.     &nbsp; | Dull stories make her laugh. 						|
-| 8.     &nbsp; | A stiff cord will do to fasten your shoe. 		|
-| 9.     &nbsp; | Get the trust fund to the bank early. 			|
-| 10.    &nbsp; | Choose between the high road and the low. 		|
-| 11.    &nbsp; | Wish on every candle for your birthday. 			|
-| 12.    &nbsp; | Deck the halls with boughs of holly. 				|
-| 13.    &nbsp; | Ring in the new year with a kiss. 				|
-| 14.    &nbsp; | Have a spooky Halloween. 							|
-| 15.    &nbsp; | Enjoy the vacation with your loved ones. 			|
-| 16.    &nbsp; | Be filled with joy and peace during this time. 	|  
-| 17.    &nbsp; | Relax on your holiday break. 						|
+| :------------ | :------------------------------------------------ |
+| 1.            | Stop whistling and watch the boys march. 			|
+| 2.            | Jerk the cord, and out tumbles the gold. 			|
+| 3.            | Slide the tray across the glass top. 				|
+| 4.            | The cloud moved in a stately way and was gone. 	|
+| 5.            | Light maple makes for a swell room. 				|
+| 6.            | Set the piece here and say nothing. 				|
+| 7.            | Dull stories make her laugh. 						|
+| 8.            | A stiff cord will do to fasten your shoe. 		|
+| 9.            | Get the trust fund to the bank early. 			|
+| 10.           | Choose between the high road and the low. 		|
+| 11.           | Wish on every candle for your birthday. 			|
+| 12.           | Deck the halls with boughs of holly. 				|
+| 13.           | Ring in the new year with a kiss. 				|
+| 14.           | Have a spooky Halloween. 							|
+| 15.           | Enjoy the vacation with your loved ones. 			|
+| 16.           | Be filled with joy and peace during this time. 	|  
+| 17.           | Relax on your holiday break. 						|
 
-<br>
 
 ### Task 2: Storyboard
 
@@ -106,10 +105,10 @@ Each filename corresponding to a participant is named with a consistent format, 
 
 | Text                | What it means    | Other categories |
 | :------------------ | :--------------- | :--------------- |
-| `VF`         &nbsp; | Female           | `VF` = Male      |
-| `21`         &nbsp; | Age              | varies  			|
-| `Cantonese`  &nbsp; | Language         | `English`        |
-| `2`          &nbsp; | Interview order  | `1` 				|
-| `20200231`   &nbsp; | Date in YYYYMMDD &nbsp; | varies 	|
+| `VF`                | Female           | `VF` = Male      |
+| `21`                | Age              | varies  			|
+| `Cantonese`         | Language         | `English`        |
+| `2`                 | Interview order  | `1` 				|
+| `20200231`          | Date in YYYYMMDD | varies 			|
 
-<br> Unique participant IDs are made up of the first five characters. In this example, `VF21A`.
+Unique participant IDs are made up of the first five characters. In this example, `VF21A`.
