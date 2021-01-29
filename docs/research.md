@@ -1,15 +1,21 @@
-# An infrequently updated list of papers and publications with SpiCE
+## Share your SpiCE research
 
-If you'd like your work with SpiCE to be listed here, please email khia.johnson@ubc.ca. This page is currently in an APA style, but might be maintained as a bibtex file later on. 
+This is an infrequently updated list of papers and publications with SpiCE. If you'd like your work with SpiCE to be listed here, please email khia.johnson@ubc.ca. This page is currently in an APA style, but might be maintained as a bibtex file later on. 
 
-## papers
+
+## Preprints, projects, and repositories
+
+...
+
+
+## Papers
 
 Johnson, K. A., Babel, M., Fong, I., & Yiu, N. (2020). SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English. Proceedings of The 12th Language Resources and Evaluation Conference, 4089–4095. https://www.aclweb.org/anthology/2020.lrec-1.503
 
 Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual Acoustic Voice Variation is Similarly Structured Across Languages. Proc. Interspeech 2020, 2387–2391. https://doi.org/10.21437/Interspeech.2020-3095
 
 
-## presentations 
+## Presentations 
 
 Johnson, K. A., & Babel, M. (2020, October). The role of passage length on acoustic voice variability in bilingual speech [Poster]. 179th Meeting of the Acoustical Society of America, Virtual. https://asa.scitation.org/doi/abs/10.1121/1.5147411
 

@@ -1,6 +1,4 @@
-# Welcome to the SpiCE Corpus documentation
-
-## About the corpus
+## The SpiCE Corpus
 
 SpiCE is a forthcoming open-access corpus of conversational bilingual Speech in Cantonese and English. SpiCE includes high-quality audio recordings of 30-minute interviews with 34 early bilinguals in each language. This project is supported by the UBC Public Scholars Initiative and a SSHRC grant held by Dr. Molly Babel. The initial release was planned for the end of January 2021, but it's shaping up to be more like mid-February. 
 
@@ -11,7 +9,7 @@ SpiCE is a forthcoming open-access corpus of conversational bilingual Speech in 
 - [Khia A. Johnson](https://www.khiajohnson.com) &mdash; get in touch at [khia.johnson@ubc.ca](mailto:khia.johnson@ubc.ca) or [@khia_johnson](https://twitter.com/khia_johnson) 
 - [Molly Babel](https://speechincontext.arts.ubc.ca/people/babel.molly.html)
 - [Ivan Fong](https://speechincontext.arts.ubc.ca/people/fong.ivan.html)
-- [Nancy Yiu]((https://speechincontext.arts.ubc.ca/people/yiu.nancy.html)
+- [Nancy Yiu](https://speechincontext.arts.ubc.ca/people/yiu.nancy.html)
 - ...and many other members of the [Speech-in-Context Lab](https://speechincontext.arts.ubc.ca/)
 
 ## Citing the corpus
