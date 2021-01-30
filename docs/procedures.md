@@ -1,10 +1,29 @@
-# Interview session procedures
+# Recording session procedures
 
 Before coming to the session, all participants completed the UBC Linguistics department language background Qualtrics survey through their [UBC Linguistics SONA](https://ubclinguistics.sona-systems.com/) account&mdash;a summary of their responses is included in the [corpus download](download.md).
 
 During the recording session, participants spent approximately 90 minutes in the lab, and completed three tasks for each language (see below). Written informed consent was provided at the beginning of the session. The tasks were ordered from most structured to least structured.
 
 The order of languages was counterbalanced&mdash;half completed the Cantonese interview first, and the other half completed the English interview first (this information is included in the participant summary file and file names, see below). Participants were given a break between interviews if they wanted one. 
+
+## Recording setup
+
+All of the recordings in the SpiCE corpus were created by two Cantonese-English bilingual research assistants, in a quiet room in Stores Road Annex at the University of British Columbia. The participant and research assistants were all seated around a table during the session&mdash;Nancy Yiu conducted the interviews, and Ivan Fong managed the recording process. 
+
+### Tools & equipment
+
+- [Audacity](https://www.audacityteam.org/)
+- A PC laptop
+- Sound Devices USBPre2 Portable Audio Interface
+- AKG C520 head-mounted microphones
+
+### Settings
+
+- Stereo (L: participant, R: interviewer), 
+	- *Note: one file was accidentally recorded in mono with just the participant*
+- 44.1 KHz sampling rate
+- 24-bit resolution
+
 
 ## Task 1: Sentences
 

@@ -1,20 +1,16 @@
-# Download the SpiCE corpus 
+# Get the SpiCE corpus 
 
-## Before you download...
+## Download
 
-### Ethics
+⚠️ SpiCE hasn't been released, so the following link won't get you the corpus just yet. We have started the process of setting up hosting in the UBC Research Data Collection, which is provided through Scholars Portal Dataverse. SpiCE will be available for download here soon!
 
-The corpus was developed in accordance with the [University of British Columbia Behavioural Research Ethics Board](https://ethics.research.ubc.ca/behavioural-research-ethics) (H18-02017). 
+SpiCE is freely available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, *and* you cite the corpus. We'd love to hear about what you're doing with the corpus, and [feature you on the research page](research.md)!!
 
-### Funding
 
-SpiCE was funded by University of British Columbia [Public Scholars Initiative](https://www.grad.ubc.ca/psi) and Arts Graduate Research Awards to Khia A. Johnson, and by a [Social Sciences and Humanities Research Council of Canada (SSHRC)](https://www.sshrc-crsh.gc.ca/) Insight Grant to Molly Babel. 
+<div align="center"><button class="button disabled" onclick="https://doi.org/10.5683/SP2/MJOXP3">Download SpiCE</button></div>
+<br>
 
-### License 
-
-Spice is freely available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, *and* you cite the corpus. We'd love to hear about what you're doing with the corpus, and [feature you on the research page](research.md)!!
-
-### How to cite the corpus
+## Citation
 
 As stated on the [home page](index.md), we prefer that you cite the corpus directly:
 
@@ -48,19 +44,32 @@ But if you can't do that, then you can also cite the following paper:
 }
 ```
 
-## Get the corpus (coming soon)
+## What's in the download?
 
-⚠️ SpiCE hasn't been released, so the following link won't get you the corpus just yet. We have started the process of setting up hosting in the UBC Research Data Collection, which is provided through Scholars Portal Dataverse. ⚠️
-
-SpiCE will be available for download here: [https://doi.org/10.5683/SP2/MJOXP3](https://doi.org/10.5683/SP2/MJOXP3).
-
-What's in the download?
+The download comes with a readme file detailing what's there. Basically:
 
 - 1 readme file (this will give the full rundown)
 - 1 language background summary
 - 2 languages x 34 talkers = 68 `wav` files (stereo, 24-bit, 44.1 kHz)
 - 2 languages x 34 talkers = 68 `textgrid` files (each with 3 tiers: task, word, phone)
 
+The `wav` and `textgrid` files have a consitent format. For example, `VF21A_Cantonese2_20200131` would correspond to the following:
 
+| Text                | What it means    | Other categories |
+| :------------------ | :--------------- | :--------------- |
+| `VF`                | Female           | `VF` = Male      |
+| `21`                | Age              | varies           |
+| `Cantonese`         | Language         | `English`        |
+| `2`                 | Interview order  | `1`              |
+| `20200231`          | Date in YYYYMMDD | varies           |
 
+Unique participant IDs are made up of the first five characters. In this example, that would be `VF21A`. This ID is used in the language background summary. 
+
+## Ethics
+
+The corpus was developed in accordance with the [University of British Columbia Behavioural Research Ethics Board](https://ethics.research.ubc.ca/behavioural-research-ethics) (H18-02017). 
+
+## Funding
+
+SpiCE was funded by University of British Columbia [Public Scholars Initiative](https://www.grad.ubc.ca/psi) and Arts Graduate Research Awards to Khia A. Johnson, and by a [Social Sciences and Humanities Research Council of Canada (SSHRC)](https://www.sshrc-crsh.gc.ca/) Insight Grant to Molly Babel. 
 

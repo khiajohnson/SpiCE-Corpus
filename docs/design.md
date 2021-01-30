@@ -1,21 +1,21 @@
-# Design Overview
+# Design overview
 
 This section covers general information about SpiCE, including how the corpus was collected, and how the transcriptions were developed. Much of this is covered in the [open-access paper describing the corpus](https://www.aclweb.org/anthology/2020.lrec-1.503/).
 
-## SpiCE is a phonological corpus
+## A phonological corpus
 
 What's that? A phonological corpus for spoken language has audio recordings, linguistic annotations at the level of the word and phone, as well as metadata. A phonological corpus should also be representative of the selected population, big enough, and collected for a purpose. SpiCE is a phonological corpus, albeit one with *force-aligned phones*. A future release might include hand-corrected phones, but that's a big ❓ at the moment!
 
-## File naming conventions
+## The speech community
 
-Each filename corresponding to a participant is named with a consistent format, such as `VF21A_Cantonese2_20200131`. This corresponds to the following:
+The Cantonese-speaking community in Metro Vancouver is a unique bilingual community. Not only is Cantonese very widely spoken in the area, it has been for a *long time*, and by a heterogeneous group of people. Statistics Canada has some useful visualizations for getting a broad picture of the linguistic landscape&mdash;in particular: [Proportion of mother tongue responses for various regions in Canada from the 2016 Census](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dv-vd/lang/index-eng.cfm). There is a lot more that could be said here, but we'll keep it brief for now!
 
-| Text                | What it means    | Other categories |
-| :------------------ | :--------------- | :--------------- |
-| `VF`                | Female           | `VF` = Male      |
-| `21`                | Age              | varies  			|
-| `Cantonese`         | Language         | `English`        |
-| `2`                 | Interview order  | `1` 				|
-| `20200231`          | Date in YYYYMMDD | varies 			|
+## Participant recruitment
 
-Unique participant IDs are made up of the first five characters. In this example, `VF21A`.
+Thirty-four early Cantonese-English bilinguals were recruited from the UBC community in Metro Vancouver, BC, Canada. They were recruited via word of mouth, social media, clubs, the linguistics subject pool, and other similar methods. A detailed summary of the participants' language background information is provided in the [corpus download](download.md). The group of participants recruited for SpiCE reflects the heterogeneity of the speech community.
+
+## Language background overview
+
+A brief summary, completing the table from our LREC paper will be provided here.
+
+

@@ -1,3 +1,31 @@
 code {
   white-space : pre-wrap !important;
 }
+
+.button {
+  border: 2px solid #2980B9;
+  border-radius: 6px;
+  background-color: #2980B9;
+  color: #fcfcfc;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.button:hover {
+  opacity: 1;
+}
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.disabled:hover {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+

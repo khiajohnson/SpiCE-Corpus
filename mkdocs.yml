@@ -2,11 +2,9 @@ site_name: SpiCE Corpus
 nav:
     - Home: index.md
     - Design overview: design.md
-    - Participants: participants.md
-    - Recording setup: recording.md
-    - Interview session procedures: procedures.md
+    - Recording session procedures: procedures.md
     - Transcription procedures: transcription.md
-    - Download SpiCE: download.md
+    - Download: download.md
     - Research: research.md
 theme: readthedocs
 navigation_depth: 5
