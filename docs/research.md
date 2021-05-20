@@ -5,9 +5,11 @@
 
 [Johnson, K. A.](https://www.khiajohnson.com/). Bilingual acoustic voice variation. OSF Project Repository. <https://osf.io/ybdkw/>.
 
-## Papers & preprints
+## Papers, proceedings, & preprints
 
-[Johnson, K. A.](https://www.khiajohnson.com/), [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/), & Fuhrman, R. A. (2020). Bilingual Acoustic Voice Variation is Similarly Structured Across Languages. Proc. Interspeech 2020, 2387–2391. <https://doi.org/10.21437/Interspeech.2020-3095>.
+[Johnson, K. A.](https://www.khiajohnson.com/) & [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/) (2021). Language contact within the speaker: Phonetic variation and crosslinguistic influence. OSF Preprints. <https://osf.io/jhsfc/>
+
+[Johnson, K. A.](https://www.khiajohnson.com/), [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/), & Fuhrman, R. A. (2020). Bilingual Acoustic Voice Variation is Similarly Structured Across Languages. Proceedings of Interspeech 2020, 2387–2391. <https://doi.org/10.21437/Interspeech.2020-3095>.
 
 [Johnson, K. A.](https://www.khiajohnson.com/), [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/), Fong, I., & Yiu, N. (2020). SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English. Proceedings of The 12th Language Resources and Evaluation Conference, 4089–4095. <https://www.aclweb.org/anthology/2020.lrec-1.503>.
 
@@ -30,4 +32,4 @@ This is an infrequently updated list of projecs, papers, and presentations on re
 [Johnson, K. A.](https://www.khiajohnson.com/), [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/), Fong, I., & Yiu, N. (2020). SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English. Proceedings of The 12th Language Resources and Evaluation Conference, 4089–4095. <https://www.aclweb.org/anthology/2020.lrec-1.503>.
 ```
 
-⚠️ And please be patient, this page won't be updated *particularly* frequently. 
+⚠️ Please be patient, this page won't be updated *particularly* frequently ⚠️ 

@@ -118,19 +118,19 @@
               
                 <h1 id="get-the-spice-corpus">Get the SpiCE corpus</h1>
 <h2 id="download">Download</h2>
-<p>⚠️ SpiCE hasn't been released, so the following link won't get you the corpus just yet. We have started the process of setting up hosting in the UBC Research Data Collection, which is provided through Scholars Portal Dataverse. SpiCE will be available for download here soon!</p>
+<p>SpiCE is available through the UBC Research Data Collection via Scholars Portal Dataverse. You can access SpiCE from the button below. </p>
 <p>SpiCE is freely available under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, <em>and</em> you cite the corpus. We'd love to hear about what you're doing with the corpus, and <a href="../research/">feature you on the research page</a>!!</p>
-<div align="center"><button class="button disabled" onclick="https://doi.org/10.5683/SP2/MJOXP3">Download SpiCE</button></div>
+<div align="center"><button class="button" onclick="https://doi.org/10.5683/SP2/MJOXP3">Download SpiCE</button></div>
 
 <p><br></p>
 <h2 id="citation">Citation</h2>
 <p>As stated on the <a href="..">home page</a>, we prefer that you cite the corpus directly:</p>
 <pre><code class="text">@data{johnson_spice_2021,
-    author = {Johnson, Khia},
+    author = {Johnson, Khia A.},
     publisher = {Scholars Portal Dataverse},
     title = {SpiCE: Speech in Cantonese and English},
     year = {2021},
-    version = {DRAFT VERSION},
+    version = {Version 1},
     doi = {10.5683/SP2/MJOXP3},
     url = {https://doi.org/10.5683/SP2/MJOXP3}
 } 
@@ -153,12 +153,15 @@
 </code></pre>
 
 <h2 id="whats-in-the-download">What's in the download?</h2>
-<p>The download comes with a readme file detailing what's there. Basically:</p>
+<p>The download comes with:</p>
 <ul>
-<li>1 readme file (this will give the full rundown)</li>
-<li>1 language background summary</li>
-<li>2 languages x 34 talkers = 68 <code>wav</code> files (stereo, 24-bit, 44.1 kHz)</li>
-<li>2 languages x 34 talkers = 68 <code>textgrid</code> files (each with 3 tiers: task, word, phone)</li>
+<li>A README.md file (this will give the full rundown)</li>
+<li>Tabular language background information</li>
+<li>PDF copy of the language background questionnaire</li>
+<li>Files used in and produced by the forced alignment process</li>
+<li>A copy of this documentation</li>
+<li>2 languages x 34 talkers = 68 <code>.wav</code> files (stereo, 16-bit, 44.1 kHz)</li>
+<li>2 languages x 34 talkers = 68 <code>.TextGrid</code> files (each with 4 tiers: task, utterance, word, phone)</li>
 </ul>
 <p>The <code>wav</code> and <code>textgrid</code> files have a consitent format. For example, <code>VF21A_Cantonese2_20200131</code> would correspond to the following:</p>
 <table>
@@ -178,7 +181,7 @@
 <tr>
 <td align="left"><code>21</code></td>
 <td align="left">Age</td>
-<td align="left">varies</td>
+<td align="left">varies <code>19</code>-<code>34</code></td>
 </tr>
 <tr>
 <td align="left"><code>Cantonese</code></td>
@@ -197,7 +200,8 @@
 </tr>
 </tbody>
 </table>
-<p>Unique participant IDs are made up of the first five characters. In this example, that would be <code>VF21A</code>. This ID is used in the language background summary. </p>
+<p><br>
+Unique participant IDs are made up of the first five characters. In this example, that would be <code>VF21A</code>. This ID is used in the language background summary. </p>
 <h2 id="ethics">Ethics</h2>
 <p>The corpus was developed in accordance with the <a href="https://ethics.research.ubc.ca/behavioural-research-ethics">University of British Columbia Behavioural Research Ethics Board</a> (H18-02017). </p>
 <h2 id="funding">Funding</h2>

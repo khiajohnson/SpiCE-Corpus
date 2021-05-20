@@ -1,6 +1,12 @@
 # Recording session procedures
 
-Before coming to the session, all participants completed the UBC Linguistics department language background Qualtrics survey through their [UBC Linguistics SONA](https://ubclinguistics.sona-systems.com/) account&mdash;a summary of their responses is included in the [corpus download](download.md).
+This page is an extension of the description published in [Johnson, Babel, Fong, & Yiu (2020)](https://www.aclweb.org/anthology/2020.lrec-1.503/), and some of the text from the paper is reproduced verbatim.
+
+---
+
+## Overview
+
+Before coming to the session, all participants completed the UBC Linguistics department language background Qualtrics survey through their [UBC Linguistics SONA](https://ubclinguistics.sona-systems.com/) account&mdash;a summary derived from participant responses is included in the [corpus download](download.md), as is a copy of the survey questions.
 
 During the recording session, participants spent approximately 90 minutes in the lab, and completed three tasks for each language (see below). Written informed consent was provided at the beginning of the session. The tasks were ordered from most structured to least structured.
 
@@ -12,22 +18,23 @@ All of the recordings in the SpiCE corpus were created by two Cantonese-English 
 
 ### Tools & equipment
 
-- [Audacity](https://www.audacityteam.org/)
+- [Audacity 2.2 (and above)](https://www.audacityteam.org/)
 - A PC laptop
 - Sound Devices USBPre2 Portable Audio Interface
-- AKG C520 head-mounted microphones
+- AKG C520 head-mounted microphones (worn by Nancy and participant)
+- AKG headphones (worn by Ivan)
 
 ### Settings
 
 - Stereo (L: participant, R: interviewer), 
 	- *Note: one file was accidentally recorded in mono with just the participant*
-- 44.1 KHz sampling rate
-- 24-bit resolution
+- 44.1 KHz sampling rate (or higher, resampled for consistency)
+- 16-bit resolution (or higher, resampled for consistency)
 
 
 ## Task 1: Sentences
 
-Participants read a fixed set of sentences in each language, read in order.
+Participants read a fixed set of sentences in each language, in the same order. Some sentences contain errors, and were not necessarily repeated.
 
 The Cantonese sentences were Chinese New Year themed sentences that were expected to be familiar to participants. Participants were presented with Cantonese characters, [Jyutping](https://en.wikipedia.org/wiki/Jyutping), and the English translation simultaneously. This was done, as not all participants were expected to be able to read in Cantonese.
 
@@ -52,7 +59,9 @@ The Cantonese sentences were Chinese New Year themed sentences that were expecte
 | 16.         | 招財進寶	       | ziu1 coi4 zeon3 bou2	      	| Seek wealth welcome in the precious			|
 | 17.         | 盤滿砵滿	       | pun4 mun5 but3 mun5	      	| Basins full of wealth 						|
 
+<br>
 The English sentences consist of List 60 from the [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.
+
 
 |        		| English sentence 									|
 | :------------ | :------------------------------------------------ |
@@ -74,18 +83,17 @@ The English sentences consist of List 60 from the [Harvard Sentences](https://ww
 | 16.           | Be filled with joy and peace during this time. 	|  
 | 17.           | Relax on your holiday break. 						|
 
-
+<br>
 ## Task 2: Storyboard
 
-Participant narrated the same cartoon in both languages, usually in just a few minutes. The cartoon&mdash;[Thank You Notes](http://totemfieldstoryboards.org/stories/thank_you_notes/)&mdash;was originally developed by Patrick Littell for linguistics field research and elicited vocabulary related to family members and simple gift-giving. While participants only viewed one panel at a time, here's what the cartoon looked like as a whole:
+Participants narrated the same cartoon in both languages, usually in just a few minutes. The cartoon&mdash;[Thank You Notes](http://totemfieldstoryboards.org/stories/thank_you_notes/)&mdash;was originally developed by Patrick Littell for linguistics field research and elicited vocabulary related to family members and simple gift-giving. While participants only viewed one panel at a time, here's what the cartoon looked like as a whole:
 
 ![image](img/thank-you-notes.jpg)
 
-
+<br>
 ## Task 3: Interview
 
-The conversational interview accounted for the bulk of the session, and typically lasted around 25 minutes. covered a variety of everyday topics such as culture, food, school, hobbies, and family. The sequence of topics with potential follow-up prompts and questions is available in the following documents. Note that the interviews were dynamic, in that the interviewer went along with what the participant wanted to discuss!
+The conversational interview accounted for the bulk of the session, and typically lasted around 25 minutes. It covered a variety of everyday topics such as culture, food, school, hobbies, and family. The sequence of topics with potential follow-up prompts and questions is available in the following documents. Note that the interviews were dynamic, in that the interviewer went along with what the participant wanted to discuss! As such, the content of interviews varies substantially.
 
 - [English interview questions PDF](spice-interview-questions-english.pdf)
 - [Cantonese interview questions PDF](spice-interview-questions-cantonese.pdf)
-

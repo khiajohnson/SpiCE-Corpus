@@ -1,8 +1,6 @@
 # The SpiCE Corpus
 
-SpiCE is a forthcoming open-access corpus of conversational bilingual Speech in Cantonese and English. SpiCE includes high-quality audio recordings of 30-minute interviews with 34 early bilinguals in each language with accompanying transcriptions and language background informaiton. The initial release was planned for the end of January 2021, but it's shaping up to be more like mid-February. Detailed information about the corpus is provided on the [design](design.md) and [transcription](transcription.md) pages. 
-
-⚠️ **this site is under construction** ⚠️
+SpiCE is an open-access corpus of conversational bilingual Speech in Cantonese and English. SpiCE includes high-quality audio recordings of 30-minute interviews with 34 early bilinguals in each language with accompanying transcriptions and language background informaiton. The corpus was first released in May 2021. Detailed information about the corpus is provided on the [design](design.md) and [transcription](transcription.md) pages. 
 
 ## Contributors
 
@@ -20,11 +18,11 @@ You can cite the corpus directly (preferred):
 
 ```text
 @data{johnson_spice_2021,
-	author = {Johnson, Khia},
+	author = {Johnson, Khia A.},
 	publisher = {Scholars Portal Dataverse},
 	title = {SpiCE: Speech in Cantonese and English},
 	year = {2021},
-	version = {DRAFT VERSION},
+	version = {Version 1},
 	doi = {10.5683/SP2/MJOXP3},
 	url = {https://doi.org/10.5683/SP2/MJOXP3}
 }
