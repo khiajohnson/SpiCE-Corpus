@@ -6,7 +6,7 @@ SpiCE is available through the UBC Research Data Collection via Scholars Portal 
 
 SpiCE is freely available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, *and* you cite the corpus. We'd love to hear about what you're doing with the corpus, and [feature you on the research page](research.md)!!
 
-<div align="center"><button class="button" onclick="https://doi.org/10.5683/SP2/MJOXP3">Download SpiCE</button></div>
+<div align="center"><button class="button" onclick="window.location.href='https://doi.org/10.5683/SP2/MJOXP3';">Download SpiCE</button></div>
 <br>
 
 ## Citation
@@ -15,14 +15,15 @@ As stated on the [home page](index.md), we prefer that you cite the corpus direc
 
 ```text
 @data{johnson_spice_2021,
-	author = {Johnson, Khia A.},
-	publisher = {Scholars Portal Dataverse},
-	title = {SpiCE: Speech in Cantonese and English},
-	year = {2021},
-	version = {Version 1},
-	doi = {10.5683/SP2/MJOXP3},
-	url = {https://doi.org/10.5683/SP2/MJOXP3}
-} 
+    author = {Johnson, Khia A.},
+    publisher = {Scholars Portal Dataverse},
+    title = {{SpiCE: Speech in Cantonese and English}},
+    UNF = {UNF:6:c6HNIwwpBuQOA349cyCu7w==},
+    year = {2021},
+    version = {V1},
+    doi = {10.5683/SP2/MJOXP3},
+    url = {https://doi.org/10.5683/SP2/MJOXP3}
+}
 ```
 
 But if you can't do that, then you can also cite the following paper:
