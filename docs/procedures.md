@@ -60,7 +60,7 @@ The Cantonese sentences were Chinese New Year themed sentences that were expecte
 | 17.         | 盤滿砵滿	       | pun4 mun5 but3 mun5	      	| Basins full of wealth 						|
 
 <br>
-The English sentences consist of List 60 from the [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.
+The English sentences include List 60 from the [Harvard Sentences](https://www.cs.columbia.edu/~hgs/audio/harvard.html) and some holiday-themed additions to better match the Cantonese sentences. Thirteen of the sentences are imperatives.
 
 
 |        		| English sentence 									|
@@ -93,7 +93,7 @@ Participants narrated the same cartoon in both languages, usually in just a few 
 <br>
 ## Task 3: Interview
 
-The conversational interview accounted for the bulk of the session, and typically lasted around 25 minutes. It covered a variety of everyday topics such as culture, food, school, hobbies, and family. The sequence of topics with potential follow-up prompts and questions is available in the following documents. Note that the interviews were dynamic, in that the interviewer went along with what the participant wanted to discuss! As such, the content of interviews varies substantially.
+The conversational interview accounted for the bulk of the session, and typically lasted around 25 minutes each. The interviews covered a variety of everyday topics such as culture, food, school, hobbies, and family. The sequence of topics with potential follow-up prompts and questions is available in the following documents. Note that the interviews were dynamic, in that the interviewer went along with what the participant wanted to discuss! As such, the content of interviews varies substantially.
 
 - [English interview questions PDF](spice-interview-questions-english.pdf)
 - [Cantonese interview questions PDF](spice-interview-questions-cantonese.pdf)

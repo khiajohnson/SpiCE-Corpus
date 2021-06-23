@@ -48,15 +48,15 @@ But if you can't do that, then you can also cite the following paper:
 
 The download comes with:
 
-- A README.md file (this will give the full rundown)
+- A ``README.md` file (this will give the full rundown)
 - Tabular language background information
 - PDF copy of the language background questionnaire
 - Files used in and produced by the forced alignment process
-- A copy of this documentation
+- A copy of this documentation (as it was on the release date)
 - 2 languages x 34 talkers = 68 `.wav` files (stereo, 16-bit, 44.1 kHz)
 - 2 languages x 34 talkers = 68 `.TextGrid` files (each with 4 tiers: task, utterance, word, phone)
 
-The `wav` and `textgrid` files have a consitent format. For example, `VF21A_Cantonese2_20200131` would correspond to the following:
+The `.wav` and `.TextGrid` files have a consitent format. For example, `VF21A_Cantonese2_20200131` would correspond to the following:
 
 | Text                | What it means    | Other categories |
 | :------------------ | :--------------- | :--------------- |

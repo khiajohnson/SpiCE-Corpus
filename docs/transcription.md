@@ -31,7 +31,7 @@ The tools used in the process were:
 
 Google Cloud Speech-to-Text has inexpensive options for both Canadian English (`en-CA`) and Hong Kong Cantonese (`yue-Hant-HK`)&mdash;it was used to produce an initial transcript, with the aim of expediting the orthographic transcription process. Anecdotally, it worked better for English than Cantonese. 
 
-Of the available options, synchronous speech recognition with short audio files was desirable from an ethics perspective, as it allowed for the files remain in local storage, and were only be sent to the cloud for processing (and not logged by Google).
+Of the available options, synchronous speech recognition with short audio files was desirable from an ethics perspective, as it allowed for the files remain in local storage rather than cloud storage. The files were sent to the cloud for processing, but were not logged by Google.
 
 To use this option, the audio files were first segmented into short chunks. This was done in Praat, by extracting the participant channel (`Convert - Extract one channel...`), marking silences (`Annotate - To TextGrid (silences)`), and manually adding and correcting such that individual chunks were under 15 seconds in length. This was done to facilitate subsequent manual correction. No attention was paid to constituents at this point, unless they coincided with a silence, pause, or breath. 
 
@@ -115,7 +115,7 @@ The acoustic models, pronunciation dictionaries, and out-of-vocabulary files for
 
 ## The end product
 
-This transcription process led to the following output. For each audio recording, there is an accompanying Praat .`TextGrid` transcript with the same base filename. The transcript includes four tiers, and is pictured in the Praat screenshot below:
+This transcription process led to the following output. For each audio recording, there is an accompanying Praat `.TextGrid` transcript with the same base filename. The transcript includes four tiers, and is pictured in the Praat screenshot below:
 
 - `task`: Marks the portion of the interview as Sentences, Storyboard, or Interview
 - `utterance`: The utterance that served as input to forced alignment.

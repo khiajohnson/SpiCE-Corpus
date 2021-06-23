@@ -7,6 +7,10 @@
 
 ## Papers, proceedings, & preprints
 
+[Soo, R.](https://sites.google.com/view/rachelsoo/), [Johnson, K. A.](https://www.khiajohnson.com/), & [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. OSF Preprints (Accepted to Interspeech 2021). <https://osf.io/9c3w6/>
+
+[Johnson, K. A.](https://www.khiajohnson.com/) (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. OSF Preprints (Accepted to Interspeech 2021). <https://osf.io/4p23e/> 
+
 [Johnson, K. A.](https://www.khiajohnson.com/) & [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/) (2021). Language contact within the speaker: Phonetic variation and crosslinguistic influence. OSF Preprints. <https://osf.io/jhsfc/>
 
 [Johnson, K. A.](https://www.khiajohnson.com/), [Babel, M.](https://linguistics.ubc.ca/profile/molly-babel/), & Fuhrman, R. A. (2020). Bilingual Acoustic Voice Variation is Similarly Structured Across Languages. Proceedings of Interspeech 2020, 2387–2391. <https://doi.org/10.21437/Interspeech.2020-3095>.
