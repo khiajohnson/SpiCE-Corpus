@@ -5,7 +5,6 @@ nav:
     - Recording session procedures: procedures.md
     - Transcription procedures: transcription.md
     - Download: download.md
-    - Research: research.md
 theme: readthedocs
 navigation_depth: 5
 extra_css: [extra.css]

@@ -4,7 +4,7 @@
 
 SpiCE is available through the UBC Research Data Collection via Scholars Portal Dataverse. You can access SpiCE from the button below. 
 
-SpiCE is freely available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, *and* you cite the corpus. We'd love to hear about what you're doing with the corpus, and [feature you on the research page](research.md)!!
+SpiCE is freely available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). That means you can use, copy, share, and adapt it, as long as you don't release your adaptation with additional restrictions, *and* you cite the corpus.
 
 <div align="center"><button class="button" onclick="window.location.href='https://doi.org/10.5683/SP2/MJOXP3';">Download SpiCE</button></div>
 <br>
